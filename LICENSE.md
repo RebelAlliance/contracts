@@ -5,7 +5,7 @@
 This is the contract you sign when you join Rebel Alliance. 
 
 
-* [team contract-sv](team-contract-sv.md)
+* [Team Contract](team-contract-sv.md)
 
 
 **Shareholder Contract**
@@ -13,7 +13,7 @@ This is the contract you sign when you join Rebel Alliance.
 This is the contract you sign if you become a shareholder in Rebel Alliance.
 
 
-* [shareholder contract-sv](shareholder-contract-sv.md)
+* [Shareholder Contract](shareholder-contract-sv.md)
 
 
 
